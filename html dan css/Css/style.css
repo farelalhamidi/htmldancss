@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+#merah {
+  color: red;
+}
+#kuning {
+  color: yellow;
+}
+#hijau {
+  color: green;
+}
+b {
+  color: #fff;
+}
+input[type="text"] {
+  background-color: blueviolet;
+  color: #fff;
+  border: 3px solid #fff;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+}
+input[type="password"] {
+  background-color: brown;
+  color: #fff;
+  border: 3px dotted yellow;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+}

@@ -1,0 +1,16 @@
+.p1 {
+  color: black;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande"
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.p2 {
+  color: aqua;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-style: normal;
+}
